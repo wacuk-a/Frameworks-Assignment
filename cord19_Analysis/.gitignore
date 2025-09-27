@@ -1,0 +1,21 @@
+# Large dataset files
+metadata.csv
+*.csv
+data/
+datasets/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.class
+
+# Streamlit
+.streamlit/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
